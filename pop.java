@@ -1,8 +1,11 @@
 class pop
 {
-  public static void main(Sting args[])
+
+  public static void main()
   {
-    System.out.println("dsdsd");
+   
+    Sysout("DSDSDSDS");
+    
   }
-  
+
 }
